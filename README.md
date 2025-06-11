@@ -1,5 +1,5 @@
 # Veila-Collection-
-<SHOW YOU'RINNER BEAUTY>
+SHOW YOU'R INNER BEAUTY
 <html lang="id">
 <head>
   <meta charset="UTF-8">
@@ -52,7 +52,9 @@
     <video controls>
       <source src="video/tutorial-hijab1.mp4" type="video/mp4">
       Maaf, browser Anda tidak mendukung pemutaran video.
-    </video>
+    </<iframe width="100%" height="315" src="https://www.youtube.com/embed/ID_VIDEO_KAMU" 
+frameborder="0" allowfullscreen></iframe>
+>
     <div class="description">
       <h2>Hijab Pesta Elegan</h2>
       <p>Tutorial hijab untuk acara formal atau pesta. Simple, anggun, dan cepat!</p>
@@ -60,7 +62,7 @@
   </div>
 
   <footer>
-    &copy; 2025 TutorialHijabyt:yaymutiara | Ikuti kami di Instagram: @veilacollection
+    &copy; 2025 yt: Tutorial Hijab yaymutiara | Ikuti kami di Instagram: @veilacollection
   </footer>
 
 </body>
