@@ -50,18 +50,19 @@ TUTORIAL HIJAB ELEGAN
 
   <div class="video-container">
     <video controls>
-      <source src="(https://youtube.com/shorts/qByjUc4Oylk?si=fYc9kh4QVMcLUMzL)video/tutorial-hijab1.mp4" type="video/mp4">
-      
+      <source src=https://youtube.com/shorts/qByjUc4Oylk?si=5Up4lllVUUAF2Fns>
+      Maaf, browser Anda tidak mendukung pemutaran video.
     </video>
     <div class="description">
-      <h2>Hijab casual elegan</h2>
+      <h2>Hijab Pesta Elegan</h2>
       <p>Tutorial hijab untuk acara formal atau casual. Simple, anggun, dan cepat!</p>
     </div>
   </div>
 
   <footer>
-    &copy; 2025 TutorialHijab.com | Ikuti kami di Instagram: @veilacollection
+    &copy; 2025 yt : TutorialHijab yaymutiara | Ikuti kami di Instagram: @veilacollection
   </footer>
 
 </body>
 </html>
+
