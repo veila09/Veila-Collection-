@@ -51,9 +51,8 @@
     <video controls>
       <source src="video/tutorial-hijab1.mp4" type="video/mp4">
       Maaf, browser Anda tidak mendukung pemutaran video.
-    </<iframe width="100%" height="315" src="https://youtube.com/shorts/qByjUc4Oylk?si=EH4xjt44PhOYzTfc" 
-frameborder="0" allowfullscreen></iframe>
->
+    </<iframe width="100%" height="315" src="https://www.youtube.com/embed/ID_VIDEO_KAMU" 
+frameborder="0" allowfullscreen></iframe>>
     <div class="description">
       <h2>Hijab Pesta Elegan</h2>
       <p>Tutorial hijab untuk acara formal atau pesta. Simple, anggun, dan cepat!</p>
@@ -61,8 +60,9 @@ frameborder="0" allowfullscreen></iframe>
   </div>
 
   <footer>
-    &copy; 2025 TutorialHijayt:yaymutiara | Ikuti kami di Instagram: @veilacollection
+    &copy; 2025 yt:TutorialHijabyaymutiara | Ikuti kami di Instagram: @veilacollection
   </footer>
 
 </body>
 </html>
+
