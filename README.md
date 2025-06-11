@@ -1,4 +1,4 @@
-# Veila-Collection-
+# Veila Collection
 SHOW YOU'R INNER BEAUTY
 <html lang="id">
 <head>
