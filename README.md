@@ -1,5 +1,5 @@
 # Veila-Collection-
-TUTORIAL HIJAB ELEGAN 
+TUTORIAL HIJAB ELEGAN
 <html lang="id">
 <head>
   <meta charset="UTF-8">
@@ -50,17 +50,17 @@ TUTORIAL HIJAB ELEGAN
 
   <div class="video-container">
     <video controls>
-      <source (https://youtube.com/shorts/qByjUc4Oylk?si=-zRhB-kZ_RhsMWPR)">
-      Maaf, browser Anda tidak mendukung pemutaran video.
-    </[video](https://youtube.com/shorts/qByjUc4Oylk?si=mnhM1o1LW3a92jg7)>
+      <source src="(https://youtube.com/shorts/qByjUc4Oylk?si=fYc9kh4QVMcLUMzL)video/tutorial-hijab1.mp4" type="video/mp4">
+      
+    </video>
     <div class="description">
-      <h2>Hijab Elegan</h2>
+      <h2>Hijab casual elegan</h2>
       <p>Tutorial hijab untuk acara formal atau casual. Simple, anggun, dan cepat!</p>
     </div>
   </div>
 
   <footer>
-    &copy; 2025 Veila Collection | Ikuti kami di Instagram: @Veilacollection 
+    &copy; 2025 TutorialHijab.com | Ikuti kami di Instagram: @veilacollection
   </footer>
 
 </body>
