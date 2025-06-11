@@ -62,7 +62,7 @@ frameborder="0" allowfullscreen></iframe>
   </div>
 
   <footer>
-    &copy; 2025 yt:yaymutiara | Ikuti kami di Instagram: @veilacollection
+    &copy; 2025 tutorial hijab yt:yaymutiara | Ikuti kami di Instagram: @veilacollection
   </footer>
 
 </body>
