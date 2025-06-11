@@ -1,5 +1,5 @@
 # Veila-Collection-
-<!DOCTYPE html>
+TUTORIAL HIJAB ELEGAN 
 <html lang="id">
 <head>
   <meta charset="UTF-8">
@@ -50,7 +50,7 @@
 
   <div class="video-container">
     <video controls>
-      <source src="video/tutorial-hijab1.mp4" type="video/mp4">
+      <source (https://youtube.com/shorts/qByjUc4Oylk?si=-zRhB-kZ_RhsMWPR)">
       Maaf, browser Anda tidak mendukung pemutaran video.
     </video>
     <div class="description">
