@@ -1,4 +1,3 @@
-# Veila Collection
 <show you'r inner beauty>
 <html lang="id">
 <head>
