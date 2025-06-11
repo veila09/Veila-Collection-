@@ -1,5 +1,5 @@
 # Veila Collection
-SHOW YOU'R INNER BEAUTY
+<show you'r inner beauty>
 <html lang="id">
 <head>
   <meta charset="UTF-8">
@@ -52,7 +52,7 @@ SHOW YOU'R INNER BEAUTY
     <video controls>
       <source src="video/tutorial-hijab1.mp4" type="video/mp4">
       Maaf, browser Anda tidak mendukung pemutaran video.
-    </<iframe width="100%" height="315" src="https://www.youtube.com/embed/ID_VIDEO_KAMU" 
+    </<iframe width="100%" height="315" src="https://youtube.com/shorts/qByjUc4Oylk?si=EH4xjt44PhOYzTfc" 
 frameborder="0" allowfullscreen></iframe>
 >
     <div class="description">
@@ -62,7 +62,7 @@ frameborder="0" allowfullscreen></iframe>
   </div>
 
   <footer>
-    &copy; 2025 yt: Tutorial Hijab yaymutiara | Ikuti kami di Instagram: @veilacollection
+    &copy; 2025 TutorialHijab yt:yaymutiara | Ikuti kami di Instagram: @veilacollection
   </footer>
 
 </body>
