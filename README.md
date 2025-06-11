@@ -52,10 +52,10 @@ TUTORIAL HIJAB ELEGAN
     <video controls>
       <source (https://youtube.com/shorts/qByjUc4Oylk?si=-zRhB-kZ_RhsMWPR)">
       Maaf, browser Anda tidak mendukung pemutaran video.
-    </video>
+    </[video](https://youtube.com/shorts/qByjUc4Oylk?si=mnhM1o1LW3a92jg7)>
     <div class="description">
-      <h2>Hijab Pesta Elegan</h2>
-      <p>Tutorial hijab untuk acara formal atau pesta. Simple, anggun, dan cepat!</p>
+      <h2>Hijab Elegan</h2>
+      <p>Tutorial hijab untuk acara formal atau casual. Simple, anggun, dan cepat!</p>
     </div>
   </div>
 
